@@ -1,0 +1,15 @@
+appId: net.gridplay.games
+productName: GridPlayLauncher
+artifactName: GridPlayLauncher-${version}-mac.${ext}
+directories:
+  output: dist
+mac:
+  target: dmg
+  category: public.app-category.utilities
+  icon: build/icon.icns
+  extendInfo:
+    LSUIElement: 1
+publish:
+  provider: github
+  owner: gridplay
+  repo: gamelauncher

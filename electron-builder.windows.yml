@@ -1,0 +1,12 @@
+appId: net.gridplay.games
+productName: GridPlayLauncher
+artifactName: GridPlayLauncher-${version}-win.${ext}
+directories:
+  output: dist
+win:
+  target: nsis
+  icon: build/icon.ico
+publish:
+  provider: github
+  owner: gridplay
+  repo: gamelauncher
