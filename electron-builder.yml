@@ -1,5 +1,5 @@
 appId: net.gridplay.games
-productName: GridPlay Launcher
+productName: GridPlayLauncher
 directories:
   output: dist
 win:

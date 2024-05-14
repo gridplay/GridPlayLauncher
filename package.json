@@ -1,6 +1,7 @@
 {
-  "name": "GridPlay Launcher",
+  "name": "GridPlayLauncher",
   "version": "1.0.0",
+  "description": "GridPlayLauncher",
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -14,10 +15,10 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "electron": "^30.0.3",
     "flowbite": "^2.3.0"
   },
   "devDependencies": {
+    "electron": "^30.0.3",
     "electron-builder": "^24.13.3",
     "electron-updater": "^6.1.8"
   },
