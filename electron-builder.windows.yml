@@ -9,4 +9,4 @@ win:
 publish:
   provider: github
   owner: gridplay
-  repo: gamelauncher
+  repo: GridPlayLauncher
