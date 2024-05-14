@@ -1,6 +1,6 @@
 appId: net.gridplay.games
-productName: GridPlayLauncher
-artifactName: GridPlayLauncher-${version}-mac.${ext}
+productName: GridPlay Launcher
+artifactName: GridPlay-Launcher-${version}-mac.${ext}
 directories:
   output: dist
 mac:
